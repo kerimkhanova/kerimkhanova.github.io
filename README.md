@@ -1,1 +1,1 @@
-# https://kerimkhanova.github.io/ v0.0.1
+# https://kerimkhanova.github.io/ v0.0.2
